@@ -1,6 +1,6 @@
 #  Kaggle  - Jigsaw Rate Severity of Toxic Comments - 3rd place solution
 
-This is my 3st place solution of [Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating) Kaggle competition.
+This is my 3rd place solution of [Jigsaw Rate Severity of Toxic Comments](https://www.kaggle.com/c/jigsaw-toxic-severity-rating) Kaggle competition.
 
 ![](https://github.com/steubk/jrsotc-3rdplace/blob/main/sol.png?raw=true)
 
